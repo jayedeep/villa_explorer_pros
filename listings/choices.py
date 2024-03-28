@@ -1,3 +1,4 @@
+from .models import Listing
 bedroom_choices = {
     '1': 1,
     '2': 2,
@@ -83,3 +84,5 @@ state_choices = {
     'WV': 'West Virginia',
     'WY': 'Wyoming'
 }
+
+state_choices={i['state']:i['state'] for i in Listing.objects.all().values('state')} 

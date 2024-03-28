@@ -1,0 +1,25 @@
+{% extends 'admin/base_site.html' %}
+
+{% block content %}
+    <div style="display:'block';">
+        <div>
+              <form action="." method="POST">
+                    {{ form.as_p }}
+                    {% csrf_token %}
+
+                <button type="submit" style="    height: 35px;
+                line-height: 15px;
+                margin: 0 0 0 5px;
+                background: #171d50;
+                color: white;
+                border-radius: 17%;">Save</button>
+        </form>
+        </div>
+        <div>
+            <p>Please Enter Number of records you Want to import</p>
+            
+        </div>
+    </div>
+    <br />
+
+{% endblock %}
