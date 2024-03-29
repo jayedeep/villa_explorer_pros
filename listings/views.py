@@ -106,15 +106,15 @@ def import_listing_data(request):
             image_4=requests.get('https://source.unsplash.com/collection/874077/480x480')
             image_5=requests.get('https://source.unsplash.com/collection/874077/480x480')
             image_6=requests.get('https://source.unsplash.com/collection/874077/480x480')
-            
-           
+
+
             listing=Listing(title=title,address=address,city=city,state=state,zipcode=zipcode,
             descreption=descreption,price=price,bedrooms=bedrooms,bathrooms=bathrooms,
             garage=garage,sqft=sqft,lot_size=lot_size
             )
 
             listing.realtor_id=randint(first.id,last.id)
-            
+
             # img_temp = NamedTemporaryFile(delete=True)
             # img_temp.write(urlopen(image.url).read())
             # img_temp.flush()
@@ -145,18 +145,18 @@ def import_listing_data(request):
             photo_4.write(urlopen(image_4.url).read())
             photo_4.flush()
             listing.photo_4.save(f"{title}_4.jpg", File(photo_4))
-           
+
             photo_5 = NamedTemporaryFile(delete=True)
             photo_5.write(urlopen(image_5.url).read())
             photo_5.flush()
             listing.photo_5.save(f"{title}_5.jpg", File(photo_5))
-           
+
             photo_6 = NamedTemporaryFile(delete=True)
             photo_6.write(urlopen(image_6.url).read())
             photo_6.flush()
             listing.photo_6.save(f"{title}_6.jpg", File(photo_6))
-           
-    
+
+
             listing.save()
         return redirect(request.path+'listing/')
     form = RecordNumberImport()

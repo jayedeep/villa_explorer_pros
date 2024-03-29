@@ -1,0 +1,132 @@
+[
+{
+  "model": "realtors.realtor",
+  "pk": 22,
+  "fields": {
+    "name": "Mrs Viti Kamath",
+    "photo": "photos/&Y/10/05/Mrs_Viti_Kamath.jpg",
+    "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+    "phone": "7631199043",
+    "email": "viti.kamath@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:16.293"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 23,
+  "fields": {
+    "name": "Mrs \u0631\u0648\u0646\u06cc\u06a9\u0627 \u0631\u0636\u0627\u06cc\u06cc",
+    "photo": "photos/&Y/10/05/Mrs_\u0631\u0648\u0646\u06cc\u06a9\u0627_\u0631\u0636\u0627\u06cc\u06cc.jpg",
+    "description": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+    "phone": "004-06780750",
+    "email": "rwnykh.rdyy@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:16.555"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 24,
+  "fields": {
+    "name": "Miss Javeria Anand",
+    "photo": "photos/&Y/10/05/Miss_Javeria_Anand.jpg",
+    "description": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione",
+    "phone": "8291962545",
+    "email": "javeria.anand@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:16.808"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 25,
+  "fields": {
+    "name": "Ms Ellie Long",
+    "photo": "photos/&Y/10/05/Ms_Ellie_Long.jpg",
+    "description": "non et atque\r\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\r\nquia voluptas consequuntur itaque dolor\r\net qui rerum deleniti ut occaecati",
+    "phone": "01656 13945",
+    "email": "ellie.long@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:17"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 26,
+  "fields": {
+    "name": "Mrs Fevrosiya Goroh",
+    "photo": "photos/&Y/10/05/Mrs_Fevrosiya_Goroh.jpg",
+    "description": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
+    "phone": "(099) Y63-2892",
+    "email": "fevrosiya.goroh@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:17.293"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 27,
+  "fields": {
+    "name": "Mrs Madison Jensen",
+    "photo": "photos/&Y/10/05/Mrs_Madison_Jensen.jpg",
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+    "phone": "06-7307-1422",
+    "email": "madison.jensen@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:17.724"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 28,
+  "fields": {
+    "name": "Mr Onisiy Krasickiy",
+    "photo": "photos/&Y/10/05/Mr_Onisiy_Krasickiy.jpg",
+    "description": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor",
+    "phone": "(097) F13-8955",
+    "email": "onisiy.krasickiy@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:18.336"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 29,
+  "fields": {
+    "name": "Mr Theo Lynch",
+    "photo": "photos/&Y/10/05/Mr_Theo_Lynch.jpg",
+    "description": "ut voluptatem corrupti velit\r\nad voluptatem maiores\r\net nisi velit vero accusamus maiores\r\nvoluptates quia aliquid ullam eaque",
+    "phone": "071-774-7990",
+    "email": "theo.lynch@example.com",
+    "is_mvp": true,
+    "hire_date": "2022-10-05T08:18:18"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 30,
+  "fields": {
+    "name": "Miss Nuria Nieto",
+    "photo": "photos/&Y/10/05/Miss_Nuria_Nieto.jpg",
+    "description": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus",
+    "phone": "964-392-975",
+    "email": "nuria.nieto@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:18.817"
+  }
+},
+{
+  "model": "realtors.realtor",
+  "pk": 31,
+  "fields": {
+    "name": "Mr Silas J\u00f8rgensen",
+    "photo": "photos/&Y/10/05/Mr_Silas_J\u00f8rgensen.jpg",
+    "description": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\r\nquia quas dolores velit et non\r\naut quia necessitatibus\r\nnostrum quaerat nulla et accusamus nisi facilis",
+    "phone": "64541172",
+    "email": "silas.jorgensen@example.com",
+    "is_mvp": false,
+    "hire_date": "2022-10-05T08:18:19"
+  }
+}
+]
