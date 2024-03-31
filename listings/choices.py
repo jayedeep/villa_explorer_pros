@@ -85,4 +85,4 @@ state_choices = {
     'WY': 'Wyoming'
 }
 
-state_choices={i['state']:i['state'] for i in Listing.objects.all().values('state')} 
+state_choices={}

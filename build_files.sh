@@ -1,5 +1,5 @@
 #!/bin/bash
-
+apt install libsqlite3-dev sqlite
 # Check if pip is installed for Python 3.9
 if ! command -v python3.9 &> /dev/null; then
     echo "Python 3.9 is not installed. Please install Python 3.9 and try again."
